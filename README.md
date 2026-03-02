@@ -12,7 +12,7 @@ scikit-learn
 numpy
 matplotlib
 
-How to run
+How to run:
 open the notebook in Google Colab and click Runtime → Run all. thats it.
 Model
 
@@ -22,7 +22,7 @@ ReLU activation
 Adam optimizer
 500 iterations
 
-Results
+Results:
 
 MAE: ~0.50
 RMSE: ~0.70
